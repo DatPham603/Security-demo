@@ -24,6 +24,6 @@ spring:
         registration:
           github:
             client-id: Ov23liSMUAYlfBae7nWd
-            client-secret: 4027d992c26ec04f7beb46c932c085d845bfb60e
+            client-secret: 
 
 
